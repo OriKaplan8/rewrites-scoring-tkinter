@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Temp\ipykernel_66756\3649899409.py", line 1340, in <module>
+    main()
+  File "C:\Users\User\AppData\Local\Temp\ipykernel_66756\3649899409.py", line 1335, in main
+    app = JsonViewerApp(root)
+          ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Temp\ipykernel_66756\3649899409.py", line 1035, in __init__
+    self.find_next_unscored_turn()
+  File "C:\Users\User\AppData\Local\Temp\ipykernel_66756\3649899409.py", line 1046, in find_next_unscored_turn
+    turn_data = annotations[turn_id]['requires rewrite']
+                ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'requires rewrite'
