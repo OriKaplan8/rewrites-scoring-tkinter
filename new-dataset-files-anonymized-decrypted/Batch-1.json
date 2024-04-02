@@ -23,26 +23,25 @@
                 "answer": "Average Cost Across all PA Schools for the 2017 Application Cycle is as Follows: Average cost of resident tuition for a 27-month physician assistant program is: $71,369. Average cost of non-resident tuition for a 27-month physician assistant program is: $89,975."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
                 "turn_id": "QReCC-Test_1-3",
-                "requires_rewrite": 1,
-                "annotator_rewrite": "nigga",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
                 "rewrites": {
                     "OLD": {
                         "text": "What does becoming a physician assistant cost?",
-                        "score": "1",
-                        "optimal": "1"
+                        "score": null,
+                        "optimal": null
                     },
                     "NEW": {
                         "text": "What does a doctor's assistant program cost?",
-                        "score": "1",
-                        "optimal": "1"
+                        "score": null,
+                        "optimal": null
                     }
-                },
-                "requires rewrite": 1
+                }
             }
         ]
     },
@@ -63,26 +62,25 @@
                 "answer": "The Boer goat is a breed of goat that was developed in South Africa in the early 1900s for meat production. Their name is derived from the Afrikaans (Dutch) word boer, meaning farmer."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
                 "turn_id": "QReCC-Test_2-2",
-                "requires_rewrite": 0,
-                "annotator_rewrite": "fgdhfdsghdfgh",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
                 "rewrites": {
                     "OLD": {
                         "text": "What are the main breeds of goats?",
-                        "score": "1",
-                        "optimal": "0"
+                        "score": null,
+                        "optimal": null
                     },
                     "NEW": {
                         "text": "What is the name of the breed of goat that is mentioned in the article?",
-                        "score": "1",
-                        "optimal": "0"
+                        "score": null,
+                        "optimal": null
                     }
-                },
-                "requires rewrite": 1
+                }
             }
         ]
     },
@@ -145,23 +143,23 @@
                 "answer": "People can live long, healthy and active lives with AFib. Controlling your risk factors for heart disease and stroke and knowing what can possibly trigger your AFib will help improve your long-term management of AFib."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 7,
                 "turn_id": "QReCC-Test_3-8",
-                "requires_rewrite": 1,
-                "annotator_rewrite": "fggfhjfgj",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
                 "rewrites": {
                     "OLD": {
                         "text": "Does atrial flutter shorten your life?",
-                        "score": "6",
-                        "optimal": "1"
+                        "score": null,
+                        "optimal": null
                     },
                     "NEW": {
                         "text": "Does atrial fibrillation shorten your life?",
-                        "score": "1",
-                        "optimal": "1"
+                        "score": null,
+                        "optimal": null
                     }
                 }
             }
@@ -184,23 +182,23 @@
                 "answer": "The Neolithic Revolution\u2014also referred to as the Agricultural Revolution\u2014is thought to have begun about 12,000 years ago."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
                 "turn_id": "QReCC-Test_4-2",
-                "requires_rewrite": 1,
+                "requires_rewrite": null,
                 "annotator_rewrite": null,
                 "rewrites": {
                     "OLD": {
                         "text": "When did the neolithic revolution start and end?",
-                        "score": "6",
-                        "optimal": "1"
+                        "score": null,
+                        "optimal": null
                     },
                     "NEW": {
                         "text": "When did the Neolithic Revolution start and end?",
-                        "score": "1",
-                        "optimal": "1"
+                        "score": null,
+                        "optimal": null
                     }
                 }
             }
@@ -237,23 +235,23 @@
                 "answer": "nonsense"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
                 "turn_id": "QReCC-Test_5-4",
-                "requires_rewrite": 1,
+                "requires_rewrite": null,
                 "annotator_rewrite": null,
                 "rewrites": {
                     "OLD": {
                         "text": "What kind of wood should I use to make a turkey?",
-                        "score": "0",
-                        "optimal": "1"
+                        "score": null,
+                        "optimal": null
                     },
                     "NEW": {
                         "text": "What kind of wood should I use to cook a turkey?",
-                        "score": "1",
-                        "optimal": "1"
+                        "score": null,
+                        "optimal": null
                     }
                 }
             }
@@ -290,7 +288,7 @@
                 "answer": "In a unanimous decision, written by Justice Marshall, the Court stated that Marbury, indeed, had a right to his commission."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -364,7 +362,7 @@
                 "answer": "The functions of lipids include storing energy, signaling, and acting as structural components of cell membranes."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 6,
@@ -417,7 +415,7 @@
                 "answer": "The SEA of 1934 was enacted by Franklin D. Roosevelt's administration as a response to the widely held belief that irresponsible financial practices were one of the chief causes of the 1929 stock market crash."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -456,7 +454,7 @@
                 "answer": ""
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -495,7 +493,7 @@
                 "answer": "During LASIK eye surgery, an eye surgeon creates a flap in the cornea (A) \u2014 the transparent, dome-shaped surface of the eye that accounts for a large part of the eye's bending or refracting power. Then the surgeon uses a laser (B) to reshape the cornea, which corrects the refraction problems in the eye (C)."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -541,7 +539,7 @@
                 "answer": "In a fat tree, branches nearer the top of the hierarchy are fatter (thicker) than branches further down the hierarchy. In a telecommunications network, the branches are data links; the varied thickness (bandwidth) of the data links allows for more efficient and technology-specific use."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -594,7 +592,7 @@
                 "answer": "The setup differs from most of the other Science Olympiads, in that the olympiad contains both individual and team contests. The individual contest consists of 5 problems, covering the main fields of theoretical, mathematical and applied linguistics \u2013 phonetics, morphology, semantics, syntax, sociolinguistics, etc. \u2013 which must be solved in six hours."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -633,7 +631,7 @@
                 "answer": "Hyperglycemia is a defining characteristic of diabetes\u2014when the blood glucose level is too high because the body isn't properly using or doesn't make the hormone insulin. Eating too many processed foods may cause your blood sugar to rise."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -686,7 +684,7 @@
                 "answer": "Mechanical energy is the sum of kinetic and potential energy in an object that is used to do work. In other words, it is energy in an object due to its motion or position, or both."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -732,7 +730,7 @@
                 "answer": "Uranus orbits the Sun once every 84 years, taking an average of seven years to pass through each constellation of the zodiac. In 2033, the planet will have made its third complete orbit around the Sun since being discovered in 1781."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -785,7 +783,7 @@
                 "answer": "Examples: iron and oxygen combining to make rust. vinegar and baking soda combining to make sodium acetate, carbon dioxide and water."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -824,7 +822,7 @@
                 "answer": "There are four main types of weathering. These are freeze-thaw, onion skin (exfoliation), chemical and biological weathering. Most rocks are very hard."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -912,7 +910,7 @@
                 "answer": ""
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 8,
@@ -958,7 +956,7 @@
                 "answer": "The average Holstein cow produces around 23,000 pounds of milk, or 2,674 gallons, of milk each lactation. With a standard lactation lasting 305 days, that comes out to 75 pounds, or almost 9 gallons of milk per cow per day."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -1018,7 +1016,7 @@
                 "answer": "Your local drug store stocks several nicotine replacement products over the counter. These include patches, lozenges and gum."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 4,
@@ -1057,7 +1055,7 @@
                 "answer": "They are often confused for being a whale because of their name 'killer whale', but did you know that orcas are actually dolphins? In fact, they are the largest member of the dolphin family!"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -1117,7 +1115,7 @@
                 "answer": "There are four types of compounds, depending on how the constituent atoms are held together:molecules held together by covalent bonds.ionic compounds held together by ionic bonds.intermetallic compounds held together by metallic bonds.certain complexes held together by coordinate covalent bonds."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 4,
@@ -1177,7 +1175,7 @@
                 "answer": "The American Heart Association (AHA) say that saturated fats can lead to high cholesterol and heart disease. As a result, many full fat dairy products do not appear in heart-healthy diet recommendations."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 4,
@@ -1230,7 +1228,7 @@
                 "answer": "Replacing incandescent and CFL bulbs with LED lights, using reusable cloth bag to carry grocery and other items, commuting via public transport, utilizing both sides of paper to write or to print, reusing and recycling goods, spending less time under shower, watering plants early morning or at dusk to limit evaporation, harvesting rain water, switching to solar power, etc are some of those measures."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -1318,7 +1316,7 @@
                 "answer": "American bands regained mainstream prominence in the late 1960s, and along with it, the wave of anglophilia largely faded as American culture shifted in response to the Vietnam War and the resulting civil unrest."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 8,
@@ -1371,7 +1369,7 @@
                 "answer": "Windows isn't more popular than Linux. The most used OS is Android, a Linux distribution. However on the desktop Windows is (still) more popular (Chromebooks are coming!). ... Because of that, Windows has more hardware and software support, also contributing greatly to the popularity"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -1445,7 +1443,7 @@
                 "answer": "Early signs of throat cancer may include: Hoarseness or other change in the voice. Difficulty swallowing or the feeling that something is caught in the throat."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 6,
@@ -1498,7 +1496,7 @@
                 "answer": "Carcharodon megalodon is the largest shark that ever lived. Megalodon lived between 23.8 and 5.3 million years ago."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -1544,7 +1542,7 @@
                 "answer": "Historians don't know for sure what caused the Bronze Age collapse, but many believe the transition was sudden, violent and culturally disruptive."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -1583,7 +1581,7 @@
                 "answer": "mid 16th century: from French toilette \u2018cloth, wrapper\u2019, diminutive of toile (see toile). The word originally denoted a cloth used as a wrapper for clothes; then (in the 17th century) a cloth cover for a dressing table, the articles used in dressing, and the process of dressing, later also of washing oneself (toilet (sense 2 of the noun)). In the 19th century the word came to denote a dressing room, and, in the US, one with washing facilities; hence, a lavatory (early 20th century)."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -1622,7 +1620,7 @@
                 "answer": "In the Electoral College system, each state gets a certain number of electors based on its total number of representatives in Congress. Each elector casts one electoral vote following the general election; there are a total of 538 electoral votes."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -1682,7 +1680,7 @@
                 "answer": "The Monster Study was conducted on twenty two orphaned children living at a veteran's orphanage. It was to establish a hypothesis regarding the origins of stuttering. Johnson was trying to induce stuttering into the speech of healthy children."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 4,
@@ -1721,7 +1719,7 @@
                 "answer": "To contract Lyme disease, an infected deer tick must bite you. The bacteria enter your skin through the bite and eventually make their way into your bloodstream."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -1767,7 +1765,7 @@
                 "answer": "If you want to drink milk for strong bones, I recommend no more than one glass a day\u201c"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -1820,7 +1818,7 @@
                 "answer": "In the last fifteen years or so, music scholars have become increasingly interested in pop, but music journalists have been publishing on pop since the late 1960s."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -1866,7 +1864,7 @@
                 "answer": "Drinking a lot over a long time or too much on a single occasion can damage the heart, causing problems including: Cardiomyopathy \u2013 Stretching and drooping of heart muscle. Arrhythmias \u2013 Irregular heart beat. Stroke."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -1919,7 +1917,7 @@
                 "answer": "UMMA\u2019s collections are particularly strong in European art of the Renaissance period to the 19th century, Chinese and Japanese art from antiquity to the 19th century, African art of the 19th and 20th centuries, and American art from the 19th century to the present. Works by Whistler and Picasso, Chinese and Japanese paintings and ceramics, and sculpture from central Africa are among the finest in North America."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -1965,7 +1963,7 @@
                 "answer": "Popular over-the-counter medications like Tums, Maalox, Rolaids and Mylanta neutralize stomach acid and provide fast-acting relief in mild or isolated cases of acid reflux. Some antacids come in liquid form to coat the lining of the esophagus and help reduce the amount of acid in the stomach"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -2004,7 +2002,7 @@
                 "answer": "The Bichon Frise and Labradoodle Are Great Hypoallergenic Dogs."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -2043,7 +2041,7 @@
                 "answer": "The main advantages of virtual machines:Multiple OS environments can exist simultaneously on the same machine, isolated from each other;Virtual machine can offer an instruction set architecture that differs from real computer's;Easy maintenance, application provisioning, availability and convenient recovery."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -2082,7 +2080,7 @@
                 "answer": "There are essentially three types of Earth orbits: high Earth orbit, medium Earth orbit, and low Earth orbit. Many weather and some communications satellites tend to have a high Earth orbit, farthest away from the surface"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -2142,7 +2140,7 @@
                 "answer": "Disadvantages of 529 PlansLimited Investment Options. ...The Fees May Be High. ...A 10% Penalty Applies to Non-Qualified Withdrawals. ...Time Isn't Always On Your Side."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 4,
@@ -2223,7 +2221,7 @@
                 "answer": "Batillus"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 7,
@@ -2269,7 +2267,7 @@
                 "answer": "Per multiple references a standard Red Bull contains 80 mg of caffeine (but most producers would make different products). A daily long term limit for caffeine ingestion is 400 mg per day (so five cans is at that limit), but that's related to side effects, not risk of death."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -2357,7 +2355,7 @@
                 "answer": "The original half-smoke is considered to be the sausage distributed by D.C.'s Briggs and Co. meatpackers, originating in around 1950, though Raymond Briggs started selling his half-smokes in about 1930."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 8,
@@ -2396,7 +2394,7 @@
                 "answer": "The crust and the solid mantle layer together constitute oceanic lithosphere. Oceanic crust is primarily composed of mafic rocks, or sima, which is rich in iron and magnesium."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -2435,7 +2433,7 @@
                 "answer": "Unlike Lamarck, Darwin proposed common descent and a branching tree of life, meaning that two very different species could share a common ancestor. Darwin based his theory on the idea of natural selection: it synthesized a broad range of evidence from animal husbandry, biogeography, geology, morphology, and embryology."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -2488,7 +2486,7 @@
                 "answer": "A chemical imbalance in the brain is said to occur when there\u2019s either too much or too little of certain chemicals, called neurotransmitters, in the brain. Neurotransmitters are natural chemicals that help facilitate communication between your nerve cells."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -2548,7 +2546,7 @@
                 "answer": "Real-time processing means that a transaction is processed fast enough for the result to come back and be acted on right away. Real-time databases are useful for accounting, banking, law, medical records, multi-media, process control, reservation systems, and scientific data analysis."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 4,
@@ -2587,7 +2585,7 @@
                 "answer": "The most common types of sports injuries include:Sprains. Overstretching or tearing the ligaments results in a sprain. ...Strains. Overstretching or tearing muscles or tendons results in a sprain. ...Knee injuries. ...Swollen muscles. ...Achilles tendon rupture. ...Fractures. ...Dislocations. ...Rotator cuff injury."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -2640,7 +2638,7 @@
                 "answer": "A Surrealist manifesto was written by Breton and published in 1924 as a booklet (Editions du Sagittaire). The document defines Surrealism as: Psychic automatism in its pure state, by which one proposes to express\u2014verbally, by means of the written word, or in any other manner\u2014the actual functioning of thought."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -2693,7 +2691,7 @@
                 "answer": "Currently, there are at least four types of blockchain networks \u2014 public blockchains, private blockchains, consortium blockchains and hybrid blockchains."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -2767,7 +2765,7 @@
                 "answer": "Whether you like them dry or wet, the trick is to monitor time and temperature. Maintain a steady temperature around 250 degrees F, and cook them for about 5 hours."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 6,
@@ -2820,7 +2818,7 @@
                 "answer": "The gross national income (GNI), previously known as gross national product (GNP), is the total domestic and foreign output claimed by residents of a country, consisting of gross domestic product (GDP), plus factor incomes earned by foreign residents, minus income earned in the domestic economy by nonresidents"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -2908,7 +2906,7 @@
                 "answer": "Although not all side effects are known, lavender is thought to be likely safe for most people. Stop using lavender and call your healthcare provider at once if you have: severe drowsiness."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 8,
@@ -2954,7 +2952,7 @@
                 "answer": "Production of red blood cells is controlled by erythropoietin, a hormone produced primarily by the kidneys. Red blood cells start as immature cells in the bone marrow and after approximately seven days of maturation are released into the bloodstream."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -2993,7 +2991,7 @@
                 "answer": ""
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -3039,7 +3037,7 @@
                 "answer": "Solar is a safe alternative which can replace current fossil fuels like coal and gas for generation of electricity that produce air, water, and land pollution. ... Use of solar energy will eliminate these unsafe, unclean consequences from using conventional fossil fuels."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -3078,7 +3076,7 @@
                 "answer": "On the following slides, you'll learn about the eight main mammal characteristics, ranging from hair to four-chambered hearts.Hair and Fur. ...Mammary Glands. ...Single-Boned Lower Jaws. ...One-Time Tooth Replacement. ...Three Bones in the Middle Ear. ...Warm-Blooded Metabolisms. ...Diaphragms. ...Four-Chambered Hearts."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -3117,7 +3115,7 @@
                 "answer": "The Top 10 Spanish Traditional Christmas FoodsEntremeses platter \u00a9 Tamorlan / WikiCommons. Seafood. ...Seafood \u00a9 Maxim Krayushkin/Flickr. ...Roast suckling pig \u00a9 fevol / Pixabay. ...Roast lamb dinner \u00a9 JudyMcAuliffe / Pixabay. ...Sopa de Galets \u00a9 Emi Ya\u00f1ez / Flickr. ...Turr\u00f3n \u00a9 Lablascovegmenu / Flickr. ...Spanish polvorones \u00a9 Roinpa / WikiCommons. ...Roscon de Reyes \u00a9Tamorlan."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -3163,7 +3161,7 @@
                 "answer": "Ching Shih, was a Chinese pirate leader who terrorized the China Seas during the Jiaqing Emperor period of the Qing dynasty in the early 19th-century. She commanded over 300 junks (traditional Chinese sailing ships) manned by 20,000 to 40,000 pirates\u2014men, women, and even children."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -3216,7 +3214,7 @@
                 "answer": "More than 1,500 years before Christopher Columbus and his crew sailed to the New World, Native Americans had already domesticated turkeys twice: first in south-central Mexico at around 800 B.C. and again in what is now the southwestern U.S. at about 200 B.C., according to a new study."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -3276,7 +3274,7 @@
                 "answer": "A literary trope is the use of figurative language, via word, phrase or an image, for artistic effect such as using a figure of speech. The word trope has also come to be used for describing commonly recurring literary and rhetorical devices, motifs or clich\u00e9s in creative works"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 4,
@@ -3329,7 +3327,7 @@
                 "answer": "French soups and stewsBisque.Bouillabaisse \u2013 a stew of mixed herbs, fish, and vegetables.Consomm\u00e9French onion soup.Garbure \u2013 a thick French soup or stew of ham with cabbage and other vegetables, usually with cheese and stale bread added.Lettuce soup."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -3368,7 +3366,7 @@
                 "answer": "His trial on a few epilepsy patients in 1921 was the first use of the ketogenic diet as a treatment for epilepsy. ."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -3428,7 +3426,7 @@
                 "answer": "Spencer differed from Comte in believing it was possible to discover a single law of universal application which he identified with progressive development and was to call the principle of evolution."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 4,
@@ -3467,7 +3465,7 @@
                 "answer": "Black greasewood (Sarcobatus vermiculatus)Blue flax (Linum lewisii)Buffaloberry (Shepherdia argentea)Curly-top gumweed (Grindelia squarrosa)Fringed sagebrush (Artemisia ludoviciana)Indian tobacco (Nicotiana quadrivalvis)Lanceleaf sage (Salvia reflexa)Shadscale (Atriplex canescens)"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -3541,7 +3539,7 @@
                 "answer": "It has been suggested that a new generation of caretakers may have failed to realize the historic significance of the award."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 6,
@@ -3580,7 +3578,7 @@
                 "answer": "Fun Lovin' Criminals gained a large following internationally, notably in north-west Europe, around the release of their first two albums in the late 1990s."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -3626,7 +3624,7 @@
                 "answer": "The original members of The Animals included Hilton Valentine, Alan Price, Andy Summers, Chas Chandler, Dave Rowberry, and Steve ih Farrell."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -3665,7 +3663,7 @@
                 "answer": "Refused's lyrics soon began to focus on far-left politics, drawing on anarchism, socialism, among other ideologies."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -3725,7 +3723,7 @@
                 "answer": "Andy Stitzer is a 40-year-old virgin. His co-workers learn that Andy is still a virgin, and resolve to help him lose his virginity."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 4,
@@ -3813,7 +3811,7 @@
                 "answer": "The Outfield returned with 1992's Rockeye. Its leadoff single, Closer to Me, was a near Top 40 hit."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 8,
@@ -3859,7 +3857,7 @@
                 "answer": "The Navajo people ran and hid for the most part. In the end they surrendered."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -3919,7 +3917,7 @@
                 "answer": "\u201cIf it is possible to maintain that the sex impulse has no normal existence in early life, then every manifestation of it at that period must be \u2018perverse.\u2019\u201d"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 4,
@@ -3972,7 +3970,7 @@
                 "answer": "They were known as the Hanson Brothers, before shortening the name to Hanson in 1993."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -4011,7 +4009,7 @@
                 "answer": "The Future Is Medieval was made available through Kaiser Chiefs' official website on 3 June 2011, before being released in shops on 27 June."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -4050,7 +4048,7 @@
                 "answer": "Prior to the Rockies, Jason Giambi was signed with the Oakland Athletics for his second stint"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -4103,7 +4101,7 @@
                 "answer": "The Mitchell Report included Jason Giambi along with his brother Jeremy Giambi, who also admitted to using steroids during his career."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -4142,7 +4140,7 @@
                 "answer": "Bob Woodward described Jake Tapper's book as A sad, real tale about this war, America and the brave warriors who live\u2014and die\u2014at the point of the spear\u201c"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -4195,7 +4193,7 @@
                 "answer": ""
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -4234,7 +4232,7 @@
                 "answer": "Beth Phoenix returned as a villain on the July 9, 2007 episode of Raw."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -4273,7 +4271,7 @@
                 "answer": ""
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -4312,7 +4310,7 @@
                 "answer": "Welcome by Santana was the first of four consecutive albums to achieve gold certification, as opposed to the previous four, which all at least reached platinum status."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -4379,7 +4377,7 @@
                 "answer": "The members of the Funk Brothers were not widely known as studio musicians were not credited by Motown until Marvin Gaye's What's Going On in 1971"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 5,
@@ -4418,7 +4416,7 @@
                 "answer": "Flotsam and Jetsam re-recorded the album in 2014 under the title No Place For Disgrace 2014"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -4464,7 +4462,7 @@
                 "answer": "Flotsam and Jetsam toured in Europe and played at the Metalmania Festival in Poland. This show was filmed and released as DVD Once in a Deathtime in July."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -4510,7 +4508,7 @@
                 "answer": "Zbyszko became frustrated with his inability to shed his label as Bruno Sammartino's prot\u00e9g\u00e9. He challenged Sammartino to an exhibition match"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -4591,7 +4589,7 @@
                 "answer": "The BJP's campaign was assisted by its wide influence in the media"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 7,
@@ -4651,7 +4649,7 @@
                 "answer": "David Strathairn"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 4,
@@ -4704,7 +4702,7 @@
                 "answer": "Broken peaked at number 20 on the Billboard Hot 100 and fine again peaked at 61 U.S. Billboard Hot 100"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -4750,7 +4748,7 @@
                 "answer": "Michael Laudrup was twice named the best player of the year in Spain during his Barcelona years"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -4803,7 +4801,7 @@
                 "answer": "Crazy\u201c"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -4877,7 +4875,7 @@
                 "answer": "in the 4\u00d7100 m relay"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 6,
@@ -4930,7 +4928,7 @@
                 "answer": ""
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -4969,7 +4967,7 @@
                 "answer": "Erich Ludendorff was promoted to lieutenant and saw further service in the 2nd Marine Battalion, based at Kiel and Wilhelmshaven."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -5029,7 +5027,7 @@
                 "answer": "Jack White claims Jason Stollsteimer used the incident to help album sales"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 4,
@@ -5089,7 +5087,7 @@
                 "answer": "Live at the Apollo peaked at 21 on the Billboard 200."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 4,
@@ -5135,7 +5133,7 @@
                 "answer": "Kenneth Anger and Stan Brakhage's film was confiscated at the film lab for obscenity and presumably destroyed."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -5174,7 +5172,7 @@
                 "answer": "Walter Winterbottom created a credible national coaching scheme with summer residential courses that attracted international participation and praise, and inspired a new generation of managers."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -5283,7 +5281,7 @@
                 "answer": "We would never want you to be any other way"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 11,
@@ -5322,7 +5320,7 @@
                 "answer": "a bottle"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -5375,7 +5373,7 @@
                 "answer": "I know this lady"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -5442,7 +5440,7 @@
                 "answer": "Farina also had roles, generally as either cops or gangsters, in a number of movies, including \"Midnight Run\" (1988), \"Get Shorty\" (1995), \"The Mod Squad\" (1999) and \"Snatch\" (2000). "
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 5,
@@ -5551,7 +5549,7 @@
                 "answer": "She told him what happened"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 11,
@@ -5590,7 +5588,7 @@
                 "answer": "New York City"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -5636,7 +5634,7 @@
                 "answer": "A violent storm was coming"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -5675,7 +5673,7 @@
                 "answer": " Gaithersburg"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -5742,7 +5740,7 @@
                 "answer": "by accident"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 5,
@@ -5795,7 +5793,7 @@
                 "answer": "Two images show the soldiers kneeling by a bloody body sprawled over a patch of sand and grass"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -5841,7 +5839,7 @@
                 "answer": "Thirty-eight year old Mayweather (47-0, 26 knockouts), who favors the moniker \"The Money Man\" or \"TBE\" (The Best Ever), "
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -5943,7 +5941,7 @@
                 "answer": " July 5, 1967 "
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 10,
@@ -6010,7 +6008,7 @@
                 "answer": "summer."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 5,
@@ -6056,7 +6054,7 @@
                 "answer": "plenty of toy boats"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -6095,7 +6093,7 @@
                 "answer": "was separated from his unit"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -6197,7 +6195,7 @@
                 "answer": "Therefore, nameless he must be until we get back to Tulagi and find out his real name.\""
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 10,
@@ -6264,7 +6262,7 @@
                 "answer": "Ted found his beloved Brownie alive, one of his hind legs crushed in a steel leghold trap."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 5,
@@ -6303,7 +6301,7 @@
                 "answer": "The young girl and her dog set out a trip"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -6342,7 +6340,7 @@
                 "answer": " in the front seat of a SUV"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -6430,7 +6428,7 @@
                 "answer": "hey brought no sign from Baldassarre"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 8,
@@ -6469,7 +6467,7 @@
                 "answer": "the family was moving to Utah"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -6508,7 +6506,7 @@
                 "answer": "According to a statement from Mont Tremblant Ski Resort, Richardson fell during a lesson on a beginners' trail. "
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -6547,7 +6545,7 @@
                 "answer": "he had been there for three months"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -6607,7 +6605,7 @@
                 "answer": "a wonderful movie made in China"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 4,
@@ -6646,7 +6644,7 @@
                 "answer": " Whenever she came across an interesting arts-and-crafts project or recipe "
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -6692,7 +6690,7 @@
                 "answer": "\n\"I pray you, Sir Earl,\" Archie said, \"keep not too close to my traces, for the sound of the horse's hoofs and the jingling of the equipments make him all the more impatient to get forward, and even now it taxes all my strength to hold him in.\" "
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -6745,7 +6743,7 @@
                 "answer": "President"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -6784,7 +6782,7 @@
                 "answer": "a dress to wear to her party."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -6830,7 +6828,7 @@
                 "answer": "Greater London"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -6883,7 +6881,7 @@
                 "answer": " Nevers was twelve miles away"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -6950,7 +6948,7 @@
                 "answer": "Wiltshire Council is now based in the county town of Trowbridge. \n"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 5,
@@ -6989,7 +6987,7 @@
                 "answer": "piece of spaghetti fell on the kitchen floor. To Marsha, it looked like a stick man so she kept him. She named her new noodle friend Joey"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -7028,7 +7026,7 @@
                 "answer": "he only secular one that Anne saw while at Whitehall was an odd volume of Parthenissa"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -7067,7 +7065,7 @@
                 "answer": "William"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -7106,7 +7104,7 @@
                 "answer": "He owns 8 cats"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -7173,7 +7171,7 @@
                 "answer": " I've a sneaking idea it is good. "
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 5,
@@ -7219,7 +7217,7 @@
                 "answer": "\nMcLaren had explained that Alonso's \"accident was caused by the unpredictably gusty winds at that part of the circuit at that time.\" "
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -7258,7 +7256,7 @@
                 "answer": "vidently a suspicious sort of a person, as was shown by his clothes and his entire ignorance of the slang"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -7304,7 +7302,7 @@
                 "answer": "play basketball at Jared's house"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -7385,7 +7383,7 @@
                 "answer": "They were afraid Sean might get hurt"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 7,
@@ -7424,7 +7422,7 @@
                 "answer": "\"A p\u00e2t\u00e9 sandwich and some plain soda water, please,\" Sarah replied"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -7463,7 +7461,7 @@
                 "answer": "Pope Benedict XVI"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -7516,7 +7514,7 @@
                 "answer": " him years ago at Aaron Poole's home. But of course he was in his right mind then. Poor chap! I pity him very much.\" \n\n\"I think we all pity him,\" answered Dave. \"Nobody can be responsible after his mind breaks down.\" \n\n\"I feel sorry for Nat Poole"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -7555,7 +7553,7 @@
                 "answer": "There is no information about this"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -7601,7 +7599,7 @@
                 "answer": "Paul and Chet Winthrop"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -7647,7 +7645,7 @@
                 "answer": "the German state of North Rhine-Westphalia"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -7714,7 +7712,7 @@
                 "answer": "\"We are betrayed!\" "
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 5,
@@ -7795,7 +7793,7 @@
                 "answer": "The work put a little warmth into them"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 7,
@@ -7834,7 +7832,7 @@
                 "answer": "Multimedia can be recorded and played, displayed, interacted with"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -7873,7 +7871,7 @@
                 "answer": "George Purvis. "
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -7919,7 +7917,7 @@
                 "answer": "Palestinian"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -8007,7 +8005,7 @@
                 "answer": "he saved a wild man, and gave him the name of \"Friday\"."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 8,
@@ -8053,7 +8051,7 @@
                 "answer": "And, swinging the Indian club over his head, Jack Snipper made a savage blow at the young gymnast. "
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -8092,7 +8090,7 @@
                 "answer": "Portland,"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -8131,7 +8129,7 @@
                 "answer": "Mahayana Buddhism"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -8184,7 +8182,7 @@
                 "answer": " by July 7 Ferdinand II was able to reenter"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -8237,7 +8235,7 @@
                 "answer": " the royal family's"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -8325,7 +8323,7 @@
                 "answer": "brown eggs"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 8,
@@ -8378,7 +8376,7 @@
                 "answer": "or having been so stupid "
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -8431,7 +8429,7 @@
                 "answer": " Grade 8"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -8477,7 +8475,7 @@
                 "answer": " How are the elements of the charming, traditional romantic comedy \"The Proposal\" like the checklist of a charming, traditional bride?"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -8516,7 +8514,7 @@
                 "answer": "EHAAT, Effective Height Above Average Terrain"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -8555,7 +8553,7 @@
                 "answer": ", who was burned over 65 percent of his body after being set on fire, allegedly by a group of teenagers. "
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -8594,7 +8592,7 @@
                 "answer": "The consul, Majdi Shakoura"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -8640,7 +8638,7 @@
                 "answer": "Windows 8 introduced major changes to the operating system's platform"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -8686,7 +8684,7 @@
                 "answer": "Taya Kyle posted her letter March 16 "
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -8739,7 +8737,7 @@
                 "answer": "Manuel Neuer was the other player on the three-man shortlist"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -8785,7 +8783,7 @@
                 "answer": "the Berlin Society of Anthropology (1869)"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -8838,7 +8836,7 @@
                 "answer": "a ghost"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -8884,7 +8882,7 @@
                 "answer": " for his brother's birthday."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -8930,7 +8928,7 @@
                 "answer": "When last we saw Olivia Pope, she was flying off into the sunset (or maybe just flying off) with Jake by her side\u00e2\u20ac\u201dleaving behind a broken Fitz,"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -8969,7 +8967,7 @@
                 "answer": "I don't know what can be keeping West,"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -9008,7 +9006,7 @@
                 "answer": "subdued and hostile"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -9047,7 +9045,7 @@
                 "answer": "Luna the hawk wanted some socks"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -9086,7 +9084,7 @@
                 "answer": "I brought him inside and gave him a can of fish"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -9132,7 +9130,7 @@
                 "answer": "Slovene: , abbr.: \"RS\""
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -9178,7 +9176,7 @@
                 "answer": "Fergus comes back to-morrow"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -9217,7 +9215,7 @@
                 "answer": "neglected district of Arnscombe"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -9263,7 +9261,7 @@
                 "answer": "Somali pirates"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -9309,7 +9307,7 @@
                 "answer": "He had lived there all his life"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -9355,7 +9353,7 @@
                 "answer": "Physical, climatic, and biological factors can contribute to endemism"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -9394,7 +9392,7 @@
                 "answer": "The red dog was named Woof."
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -9468,7 +9466,7 @@
                 "answer": "They also bought colas"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 6,
@@ -9514,7 +9512,7 @@
                 "answer": "Geoffrey Nurberg, from Stanford University"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -9560,7 +9558,7 @@
                 "answer": " Andy's grandparents"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -9599,7 +9597,7 @@
                 "answer": "he and Amabel sat for some time with Philip"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -9645,7 +9643,7 @@
                 "answer": "Hannah ,now15"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -9684,7 +9682,7 @@
                 "answer": "The Bronx /\u02c8br\u0252\u014bks/ is the northernmost of the five boroughs"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -9737,7 +9735,7 @@
                 "answer": "his mother's boyfriend"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -9790,7 +9788,7 @@
                 "answer": "Joey said, \"I don't want to! "
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
@@ -9857,7 +9855,7 @@
                 "answer": "Democrat Terry McAuliffe, the longtime political fixer and moneyman, hasn't trailed in a poll since May. Barring a political miracle, Republican Ken Cuccinelli will be delivering a concession speech"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 5,
@@ -9903,7 +9901,7 @@
                 "answer": "the scene of Tupac Shakur's 1996 drive-by murder "
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -9949,7 +9947,7 @@
                 "answer": "Paul and Arthur shared a bachelor residence in Mayfair; shared it, that is to say, insomuch as Paul had purchased it, and was the sole proprietor, and Arthur used it whenever he could get leave from his regiment. It was here Paul found his brother on the morning of his arrival in London. "
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -10009,7 +10007,7 @@
                 "answer": "to buy Whiskers' birthday presents"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 4,
@@ -10090,7 +10088,7 @@
                 "answer": "wanting to catch these people so badly"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 7,
@@ -10129,7 +10127,7 @@
                 "answer": " I was asked to do for the radio. That was how I met Tom Seaton, the first arts editor of The Front Page"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 1,
@@ -10203,7 +10201,7 @@
                 "answer": "I cannot answer this question"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 6,
@@ -10249,7 +10247,7 @@
                 "answer": "back of Martin to the shelter of Mother Martha's lair "
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -10295,7 +10293,7 @@
                 "answer": "Limited Overs Internationals"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 2,
@@ -10348,7 +10346,7 @@
                 "answer": "the third day"
             }
         ],
-        "annotator_name": "f",
+        "annotator_name": null,
         "annotations": [
             {
                 "turn_num": 3,
