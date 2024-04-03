@@ -1,0 +1,296 @@
+{
+    "3a0ex8zrn8ovm41x482h1zvlof2by0": {
+        "dialog": [
+            {
+                "turn_num": 0,
+                "turn_id": "3a0ex8zrn8ovm41x482h1zvlof2by0-1",
+                "original_question": "When did Germany become a nation state?",
+                "original_question_id": "3a0ex8zrn8ovm41x482h1zvlof2by0-1",
+                "answer": "In 1871"
+            },
+            {
+                "turn_num": 1,
+                "turn_id": "3a0ex8zrn8ovm41x482h1zvlof2by0-2",
+                "original_question": "What years were the German Revolution?",
+                "original_question_id": "3a0ex8zrn8ovm41x482h1zvlof2by0-2",
+                "answer": "1918\u201319."
+            },
+            {
+                "turn_num": 2,
+                "turn_id": "3a0ex8zrn8ovm41x482h1zvlof2by0-3",
+                "original_question": "After that event, What was the Empire replaced by?",
+                "original_question_id": "3a0ex8zrn8ovm41x482h1zvlof2by0-3",
+                "answer": "Weimar Republic."
+            },
+            {
+                "turn_num": 3,
+                "turn_id": "3a0ex8zrn8ovm41x482h1zvlof2by0-4",
+                "original_question": "When did the Nazi seizure of power happen?",
+                "original_question_id": "3a0ex8zrn8ovm41x482h1zvlof2by0-4",
+                "answer": "In 1933"
+            }
+        ],
+        "annotator_name": null,
+        "annotations": [
+            {
+                "turn_num": 1,
+                "turn_id": "3a0ex8zrn8ovm41x482h1zvlof2by0-2",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "What were the years of the German Revolution?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "ERROR",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "What years was the German Revolution?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "What years were the German Revolution?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            },
+            {
+                "turn_num": 2,
+                "turn_id": "3a0ex8zrn8ovm41x482h1zvlof2by0-3",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "What replaced the Empire after the German Revolution?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "After the German Revolution, what was the Empire replaced by?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "After the German Revolution, What was the German Empire replaced by?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "After the German Revolution, what was the Empire replaced by?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            },
+            {
+                "turn_num": 3,
+                "turn_id": "3a0ex8zrn8ovm41x482h1zvlof2by0-4",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "When did Nazi seizure of power in Germany occur?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "When did the Nazi seizure of power happen?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "When did the Nazi seizure of power happen?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "When did the Nazi seizure of power happen?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            },
+            {
+                "turn_num": 4,
+                "turn_id": "3a0ex8zrn8ovm41x482h1zvlof2by0-5",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "Did the seizure of power of the Nazis lead to the establishment of Nazi Germany?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "Did the Nazi seizure of power lead to the establishment of Nazi Germany?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "Did the German Revolution lead to the establishment of Nazi Germany?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "Did the Nazi seizure of power lead to the establishment of Nazi Germany?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            }
+        ]
+    },
+    "3befod78w6tb7ora6q4jzq284yi4md": {
+        "dialog": [
+            {
+                "turn_num": 0,
+                "turn_id": "3befod78w6tb7ora6q4jzq284yi4md-1",
+                "original_question": "What did the man throw?",
+                "original_question_id": "3befod78w6tb7ora6q4jzq284yi4md-1",
+                "answer": "His shoes."
+            },
+            {
+                "turn_num": 1,
+                "turn_id": "3befod78w6tb7ora6q4jzq284yi4md-2",
+                "original_question": "What was his name?",
+                "original_question_id": "3befod78w6tb7ora6q4jzq284yi4md-2",
+                "answer": "Muntadhar al-Zaidi"
+            },
+            {
+                "turn_num": 2,
+                "turn_id": "3befod78w6tb7ora6q4jzq284yi4md-3",
+                "original_question": "Was he arrested?",
+                "original_question_id": "3befod78w6tb7ora6q4jzq284yi4md-3",
+                "answer": "Yes."
+            },
+            {
+                "turn_num": 3,
+                "turn_id": "3befod78w6tb7ora6q4jzq284yi4md-4",
+                "original_question": "Who did he throw his shoes at?",
+                "original_question_id": "3befod78w6tb7ora6q4jzq284yi4md-4",
+                "answer": "George W. Bush"
+            }
+        ],
+        "annotator_name": null,
+        "annotations": [
+            {
+                "turn_num": 1,
+                "turn_id": "3befod78w6tb7ora6q4jzq284yi4md-2",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "Who threw a shoe at George Bush?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "What was his name?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "What was the man's name?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "What was the name of the man that threw the shoes?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            },
+            {
+                "turn_num": 2,
+                "turn_id": "3befod78w6tb7ora6q4jzq284yi4md-3",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "Did Muntadhar al-Zaidi get arrested?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "Was he arrested?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "Was Muntadhar al-Zaidi arrested?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "Was Muntadhar al-Zaidi arrested?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            },
+            {
+                "turn_num": 3,
+                "turn_id": "3befod78w6tb7ora6q4jzq284yi4md-4",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "Who did Muntadhar al-Zaidi throw his shoe at?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "Who did the man throw his shoes at?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "Who did Muntadhar al-Zaidi throw his shoes at?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "Who did Muntadhar al-Zaidi throw his shoes at?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            },
+            {
+                "turn_num": 4,
+                "turn_id": "3befod78w6tb7ora6q4jzq284yi4md-5",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "Is George W. Bush still president?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "Is George W. Bush still president?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "Is George W. Bush still president?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "Is George W. Bush still president?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,296 @@
+{
+    "3qjoxow4xjrtzqo3vwgw8cezi27mer": {
+        "dialog": [
+            {
+                "turn_num": 0,
+                "turn_id": "3qjoxow4xjrtzqo3vwgw8cezi27mer-1",
+                "original_question": "What is Anna's rank?",
+                "original_question_id": "3qjoxow4xjrtzqo3vwgw8cezi27mer-1",
+                "answer": "83rd"
+            },
+            {
+                "turn_num": 1,
+                "turn_id": "3qjoxow4xjrtzqo3vwgw8cezi27mer-2",
+                "original_question": "Who she beat?",
+                "original_question_id": "3qjoxow4xjrtzqo3vwgw8cezi27mer-2",
+                "answer": "Ashleigh Barty"
+            },
+            {
+                "turn_num": 2,
+                "turn_id": "3qjoxow4xjrtzqo3vwgw8cezi27mer-3",
+                "original_question": "What was the score?",
+                "original_question_id": "3qjoxow4xjrtzqo3vwgw8cezi27mer-3",
+                "answer": "6-2 7-6 (7-4)"
+            },
+            {
+                "turn_num": 3,
+                "turn_id": "3qjoxow4xjrtzqo3vwgw8cezi27mer-4",
+                "original_question": "Who she will be playing next?",
+                "original_question_id": "3qjoxow4xjrtzqo3vwgw8cezi27mer-4",
+                "answer": "Wozniacki"
+            }
+        ],
+        "annotator_name": null,
+        "annotations": [
+            {
+                "turn_num": 1,
+                "turn_id": "3qjoxow4xjrtzqo3vwgw8cezi27mer-2",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "Who did Anna Tatishvili beat?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "Who did Anna beat?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "Who Anna beat?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "Who did Anna beat?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            },
+            {
+                "turn_num": 2,
+                "turn_id": "3qjoxow4xjrtzqo3vwgw8cezi27mer-3",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "What was the score of the Anna Tatishvili-Ashleigh Barty match?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "What was the score of Anna's match against Ashleigh Barty?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "What was the score for Ashleigh Barty?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "What was the score of Ashleigh Barty's match?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            },
+            {
+                "turn_num": 3,
+                "turn_id": "3qjoxow4xjrtzqo3vwgw8cezi27mer-4",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "Who will Anna Tatishvili play next?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "Who is Anna playing next?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "Who will be playing next after Ashleigh Barty?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "Who will Anna play next?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            },
+            {
+                "turn_num": 4,
+                "turn_id": "3qjoxow4xjrtzqo3vwgw8cezi27mer-5",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "What is the rank of Caroline Wozniacki?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "What is Wozniacki's rank?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "What is Anna Wozniacki's rank?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "What is Anna Wozniacki's rank?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            }
+        ]
+    },
+    "3quo65dnquoyop61ycae4yp7zexuoo": {
+        "dialog": [
+            {
+                "turn_num": 0,
+                "turn_id": "3quo65dnquoyop61ycae4yp7zexuoo-1",
+                "original_question": "do genes evolve?",
+                "original_question_id": "3quo65dnquoyop61ycae4yp7zexuoo-1",
+                "answer": "Yes"
+            },
+            {
+                "turn_num": 1,
+                "turn_id": "3quo65dnquoyop61ycae4yp7zexuoo-2",
+                "original_question": "what are polygenes?",
+                "original_question_id": "3quo65dnquoyop61ycae4yp7zexuoo-2",
+                "answer": "many different genes"
+            },
+            {
+                "turn_num": 2,
+                "turn_id": "3quo65dnquoyop61ycae4yp7zexuoo-3",
+                "original_question": "are all genetic traits visible?",
+                "original_question_id": "3quo65dnquoyop61ycae4yp7zexuoo-3",
+                "answer": "No"
+            },
+            {
+                "turn_num": 3,
+                "turn_id": "3quo65dnquoyop61ycae4yp7zexuoo-4",
+                "original_question": "can genes mutate?",
+                "original_question_id": "3quo65dnquoyop61ycae4yp7zexuoo-4",
+                "answer": "Yes"
+            }
+        ],
+        "annotator_name": null,
+        "annotations": [
+            {
+                "turn_num": 1,
+                "turn_id": "3quo65dnquoyop61ycae4yp7zexuoo-2",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "What is the definition of polygenes?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "polygenes",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "what are polygenes?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "What are polygenes?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            },
+            {
+                "turn_num": 2,
+                "turn_id": "3quo65dnquoyop61ycae4yp7zexuoo-3",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "Are genetic traits always visible?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "are all genetic traits visible?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "are all genetic traits visible?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "Are all genetic traits visible?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            },
+            {
+                "turn_num": 3,
+                "turn_id": "3quo65dnquoyop61ycae4yp7zexuoo-4",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "Is it possible for genes to mutate?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "can genes mutate?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "can genes mutate?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "Can a gene mutate?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            },
+            {
+                "turn_num": 4,
+                "turn_id": "3quo65dnquoyop61ycae4yp7zexuoo-5",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "What's the name for different variants of genes?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "what are different variants of genes called?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "what are different variants of genes called?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "What are the different variants of genes called?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            }
+        ]
+    }
+}

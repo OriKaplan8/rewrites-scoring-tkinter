@@ -1,0 +1,90 @@
+{
+    "dialog_0": {
+        "dialog": [
+            {
+                "turn_num": 0,
+                "turn_id": "turnId_batchNum2_dialogNum0_turnNum0",
+                "original_question": "OriginalQuestion_batchNum2_dialogNum0_turnNum0",
+                "original_question_id": "OriginalQuestionId_batchNum2_dialogNum0_turnNum0",
+                "answer": "answer_batchNum2_dialogNum0_turnNum0"
+            },
+            {
+                "turn_num": 1,
+                "turn_id": "turnId_batchNum2_dialogNum0_turnNum1",
+                "original_question": "OriginalQuestion_batchNum2_dialogNum0_turnNum1",
+                "original_question_id": "OriginalQuestionId_batchNum2_dialogNum0_turnNum1",
+                "answer": "answer_batchNum2_dialogNum0_turnNum1"
+            }
+        ],
+        "annotator_name": null,
+        "annotations": [
+            {
+                "turn_num": 1,
+                "turn_id": "turnId_batchNum2_dialogNum0_turnNum1",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "rewrite_batchNum2_dialogNum0_turnNum1_rewriteNum0": {
+                        "text": "textbatchNum2_dialogNum0_turnNum1_rewriteNum0",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "rewrite_batchNum2_dialogNum0_turnNum1_rewriteNum1": {
+                        "text": "textbatchNum2_dialogNum0_turnNum1_rewriteNum1",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "rewrite_batchNum2_dialogNum0_turnNum1_rewriteNum2": {
+                        "text": "textbatchNum2_dialogNum0_turnNum1_rewriteNum2",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            }
+        ]
+    },
+    "dialog_1": {
+        "dialog": [
+            {
+                "turn_num": 0,
+                "turn_id": "turnId_batchNum2_dialogNum1_turnNum0",
+                "original_question": "OriginalQuestion_batchNum2_dialogNum1_turnNum0",
+                "original_question_id": "OriginalQuestionId_batchNum2_dialogNum1_turnNum0",
+                "answer": "answer_batchNum2_dialogNum1_turnNum0"
+            },
+            {
+                "turn_num": 1,
+                "turn_id": "turnId_batchNum2_dialogNum1_turnNum1",
+                "original_question": "OriginalQuestion_batchNum2_dialogNum1_turnNum1",
+                "original_question_id": "OriginalQuestionId_batchNum2_dialogNum1_turnNum1",
+                "answer": "answer_batchNum2_dialogNum1_turnNum1"
+            }
+        ],
+        "annotator_name": null,
+        "annotations": [
+            {
+                "turn_num": 1,
+                "turn_id": "turnId_batchNum2_dialogNum1_turnNum1",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "rewrite_batchNum2_dialogNum1_turnNum1_rewriteNum0": {
+                        "text": "textbatchNum2_dialogNum1_turnNum1_rewriteNum0",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "rewrite_batchNum2_dialogNum1_turnNum1_rewriteNum1": {
+                        "text": "textbatchNum2_dialogNum1_turnNum1_rewriteNum1",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "rewrite_batchNum2_dialogNum1_turnNum1_rewriteNum2": {
+                        "text": "textbatchNum2_dialogNum1_turnNum1_rewriteNum2",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,296 @@
+{
+    "3018q3zvoiqh6tkjkzarysii2vbarg": {
+        "dialog": [
+            {
+                "turn_num": 0,
+                "turn_id": "3018q3zvoiqh6tkjkzarysii2vbarg-1",
+                "original_question": "What's Rubio going to decide in the next few weeks?",
+                "original_question_id": "3018q3zvoiqh6tkjkzarysii2vbarg-1",
+                "answer": "running for president"
+            },
+            {
+                "turn_num": 1,
+                "turn_id": "3018q3zvoiqh6tkjkzarysii2vbarg-2",
+                "original_question": "Does he feel confident about it?",
+                "original_question_id": "3018q3zvoiqh6tkjkzarysii2vbarg-2",
+                "answer": "yes"
+            },
+            {
+                "turn_num": 2,
+                "turn_id": "3018q3zvoiqh6tkjkzarysii2vbarg-3",
+                "original_question": "What policy is he not in favor of?",
+                "original_question_id": "3018q3zvoiqh6tkjkzarysii2vbarg-3",
+                "answer": "immigration"
+            },
+            {
+                "turn_num": 3,
+                "turn_id": "3018q3zvoiqh6tkjkzarysii2vbarg-4",
+                "original_question": "What type of people does he think are dangerous to the West?",
+                "original_question_id": "3018q3zvoiqh6tkjkzarysii2vbarg-4",
+                "answer": "Radicalized individuals"
+            }
+        ],
+        "annotator_name": null,
+        "annotations": [
+            {
+                "turn_num": 1,
+                "turn_id": "3018q3zvoiqh6tkjkzarysii2vbarg-2",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "Does Marco Rubio feel confident about running for president?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "Does Rubio feel confident about running for president?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "Does Marco Rubio feel confident about running for president in the next few weeks?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "Does Marco Rubio feel confident about running for president?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            },
+            {
+                "turn_num": 2,
+                "turn_id": "3018q3zvoiqh6tkjkzarysii2vbarg-3",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "What policy does Marco Rubio not support?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "What policy is Rubio not in favor of?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "What policy is Marco Rubio not in favor of?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "What policy is Marco Rubio not in favor of?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            },
+            {
+                "turn_num": 3,
+                "turn_id": "3018q3zvoiqh6tkjkzarysii2vbarg-4",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "Who does Marco Rubio feel poses a threat to the West?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "What type of people does Rubio think are dangerous to the West?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "What type of people does Marco Rubio think are dangerous to the West?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "What kind of people does Marco Rubio think are dangerous to the West?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            },
+            {
+                "turn_num": 4,
+                "turn_id": "3018q3zvoiqh6tkjkzarysii2vbarg-5",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "Who will probably be Marco Rubio's competition in the presidential race?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "Who are some likely competition to Rubio?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "Who are some likely competition to Marco Rubio in the race for president?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "Who are some people that could be a challenge to Marco Rubio?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            }
+        ]
+    },
+    "30og32w0subzh8937xvwlr3znpknep": {
+        "dialog": [
+            {
+                "turn_num": 0,
+                "turn_id": "30og32w0subzh8937xvwlr3znpknep-1",
+                "original_question": "What is the title of the chapter?",
+                "original_question_id": "30og32w0subzh8937xvwlr3znpknep-1",
+                "answer": "The meeting of the gee eyes"
+            },
+            {
+                "turn_num": 1,
+                "turn_id": "30og32w0subzh8937xvwlr3znpknep-2",
+                "original_question": "Who is badly injured?",
+                "original_question_id": "30og32w0subzh8937xvwlr3znpknep-2",
+                "answer": "Merwell"
+            },
+            {
+                "turn_num": 2,
+                "turn_id": "30og32w0subzh8937xvwlr3znpknep-3",
+                "original_question": "Does Dave think he will recover?",
+                "original_question_id": "30og32w0subzh8937xvwlr3znpknep-3",
+                "answer": "yes"
+            },
+            {
+                "turn_num": 3,
+                "turn_id": "30og32w0subzh8937xvwlr3znpknep-4",
+                "original_question": "What does he tell Merwell to do?",
+                "original_question_id": "30og32w0subzh8937xvwlr3znpknep-4",
+                "answer": "keep a civil tongue in your head"
+            }
+        ],
+        "annotator_name": null,
+        "annotations": [
+            {
+                "turn_num": 1,
+                "turn_id": "30og32w0subzh8937xvwlr3znpknep-2",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "Who has sustained a serious injury?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "Who is badly injured?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "Who is badly injured in The meeting of the gee eyes?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "Who is badly injured?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            },
+            {
+                "turn_num": 2,
+                "turn_id": "30og32w0subzh8937xvwlr3znpknep-3",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "Does Dave think that Merwell will recover?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "Does Dave think he will recover?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "Does Dave think he will recover from the injury in The meeting of the gee eyes?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "Does Dave think Merwell will recover?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            },
+            {
+                "turn_num": 3,
+                "turn_id": "30og32w0subzh8937xvwlr3znpknep-4",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "What does Dave tell Merwell to do?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "What does Dave tell Merwell to do?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "What does Dave tell Merwell to do?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "What does Dave tell Merwell to do?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            },
+            {
+                "turn_num": 4,
+                "turn_id": "30og32w0subzh8937xvwlr3znpknep-5",
+                "requires_rewrite": null,
+                "annotator_rewrite": null,
+                "rewrites": {
+                    "D": {
+                        "text": "What did Dave leave in?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "C": {
+                        "text": "How did Dave leave?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "B": {
+                        "text": "How did Dave leave The meeting of the gee eyes?",
+                        "score": null,
+                        "optimal": null
+                    },
+                    "A": {
+                        "text": "What did Dave do after leaving?",
+                        "score": null,
+                        "optimal": null
+                    }
+                }
+            }
+        ]
+    }
+}
