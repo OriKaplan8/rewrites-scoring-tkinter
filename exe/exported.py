@@ -24,6 +24,7 @@ def compare_norm_texts(text1, text2):
     Returns:
     bool: True if the normalized texts are equal, False otherwise.
     """
+
     def normalize_string(input_string):
         # Remove symbols using regular expression
         normalized_string = re.sub(r'[^\w\s]', '', input_string)
@@ -36,6 +37,15 @@ def compare_norm_texts(text1, text2):
         
         return normalized_string
 
+    if text1 is None and text2 is None:
+        raise ValueError("Both text1 and text2 are None")
+    elif text1 is None:
+        raise ValueError("text1 is None")
+    elif text2 is None:
+        raise ValueError("text2 is None")
+
+    
+    
     if normalize_string(text1) == normalize_string(text2):
         return True
     
@@ -1632,6 +1642,7 @@ class AnnotatorRewrite():
         Returns:
         - True if the Annotator Rewrite is unique, False otherwise.
         """
+        
         if self.is_empty():
             return True
         
@@ -1659,7 +1670,7 @@ class JsonViewerApp:
         # Set the minimum size of the window
         root.minsize(1000, 900)
         self.root.update()
-        self.fields_check = True
+        self.fields_check = False
         self.disable_copy = True
         self.online = True
         
@@ -1723,7 +1734,7 @@ class JsonViewerApp:
 
         # Load JSON and display data
         self.current_dialog_num = 0
-        self.current_turn_num = 0
+        self.reset_turn_num()
 
         self.focus_list = []
         self.focus_index = 0
@@ -1835,8 +1846,21 @@ class JsonViewerApp:
         return list(self.data.json_data.keys())[self.current_dialog_num]
 
     def init_turn(self):
-        """This is an important function which initilaises and update the GUI each turn
+        """This is an important function which initializes and updates the GUI for each turn.
+        
+        It performs the following tasks:
+        1. Updates the current turn dialog labels.
+        2. Displays the dialog frame.
+        3. Updates the entry text for rewriting.
+        4. Updates the rewrites.
+        5. Updates the annotator rewrite.
+        6. Updates the font size.
+        7. Sets focus on the requires_rewrite_entry.
+        8. Prints the progress string.
         """
+        progress_string = f"Turn={self.current_turn_num+1} | Dialog={self.current_dialog_num+1}"
+        if self.online == True: progress_string += f" | Batch={self.data.get_batch_num()}"
+        print(progress_string)
         self.progress.update_current_turn_dialog_labels(self.current_dialog_num, self.current_turn_num, self.data.json_data, len(self.data.json_data[self.get_dialog_id()]['annotations']))
         self.dialog_frame.display_dialog(self.get_dialog_id(), self.current_turn_num, self.data.json_data)
         self.require_rewrite.update_entry_text(self.get_dialog_id(), self.current_turn_num, self.data.json_data)  
@@ -1844,9 +1868,10 @@ class JsonViewerApp:
         self.annotator_rewrite.update(self.get_dialog_id(), self.current_turn_num, self.data.json_data)
         self.font.update_font_size_wrapper()
         self.require_rewrite.requires_rewrite_entry.focus()
-        progress_string = f"Turn={self.current_turn_num+1} | Dialog={self.current_dialog_num+1}"
-        if self.online == True: progress_string += f" | Batch={self.data.get_batch_num()}"
-        print(progress_string)             
+        
+    def reset_turn_num(self):
+        """resets the turn number to 0"""
+        self.current_turn_num = 0
 
     def get_original_question(self):
             """
@@ -1911,6 +1936,9 @@ class JsonViewerApp:
         Returns:
             boolean: Return True if opertion was successful, False if not
         """
+        if not self.annotator_rewrite.handle_unique(self.rewrites.get_rewrite_list(), self.get_original_question):
+            return False
+        
         if not self.handle_require_rewrite_negative_with_identical_rewrite():
             return False
 
@@ -1925,7 +1953,7 @@ class JsonViewerApp:
             
         elif self.current_dialog_num < self.count_dialogs_in_batch() - 1:
             self.current_dialog_num += 1
-            self.current_turn_num = 0
+            self.reset_turn_num()
             
         elif self.online == True:
             if not self.next_batch():
@@ -1935,7 +1963,7 @@ class JsonViewerApp:
             else:
                 self.data.json_data = self.annotator_id.update_annotator_id(self.data.json_data) #update annotator name
                 self.current_dialog_num = 0
-                self.current_turn_num = 0
+                self.reset_turn_num()
               
         self.init_turn()
         
