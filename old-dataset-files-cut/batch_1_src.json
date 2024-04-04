@@ -115,34 +115,6 @@
                         "optimal": null
                     }
                 }
-            },
-            {
-                "turn_num": 4,
-                "turn_id": "3018q3zvoiqh6tkjkzarysii2vbarg-5",
-                "requires_rewrite": null,
-                "annotator_rewrite": null,
-                "rewrites": {
-                    "D": {
-                        "text": "Who will probably be Marco Rubio's competition in the presidential race?",
-                        "score": null,
-                        "optimal": null
-                    },
-                    "C": {
-                        "text": "Who are some likely competition to Rubio?",
-                        "score": null,
-                        "optimal": null
-                    },
-                    "B": {
-                        "text": "Who are some likely competition to Marco Rubio in the race for president?",
-                        "score": null,
-                        "optimal": null
-                    },
-                    "A": {
-                        "text": "Who are some people that could be a challenge to Marco Rubio?",
-                        "score": null,
-                        "optimal": null
-                    }
-                }
             }
         ]
     },
@@ -258,34 +230,6 @@
                     },
                     "A": {
                         "text": "What does Dave tell Merwell to do?",
-                        "score": null,
-                        "optimal": null
-                    }
-                }
-            },
-            {
-                "turn_num": 4,
-                "turn_id": "30og32w0subzh8937xvwlr3znpknep-5",
-                "requires_rewrite": null,
-                "annotator_rewrite": null,
-                "rewrites": {
-                    "D": {
-                        "text": "What did Dave leave in?",
-                        "score": null,
-                        "optimal": null
-                    },
-                    "C": {
-                        "text": "How did Dave leave?",
-                        "score": null,
-                        "optimal": null
-                    },
-                    "B": {
-                        "text": "How did Dave leave The meeting of the gee eyes?",
-                        "score": null,
-                        "optimal": null
-                    },
-                    "A": {
-                        "text": "What did Dave do after leaving?",
                         "score": null,
                         "optimal": null
                     }

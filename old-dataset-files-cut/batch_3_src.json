@@ -115,34 +115,6 @@
                         "optimal": null
                     }
                 }
-            },
-            {
-                "turn_num": 4,
-                "turn_id": "3qjoxow4xjrtzqo3vwgw8cezi27mer-5",
-                "requires_rewrite": null,
-                "annotator_rewrite": null,
-                "rewrites": {
-                    "D": {
-                        "text": "What is the rank of Caroline Wozniacki?",
-                        "score": null,
-                        "optimal": null
-                    },
-                    "C": {
-                        "text": "What is Wozniacki's rank?",
-                        "score": null,
-                        "optimal": null
-                    },
-                    "B": {
-                        "text": "What is Anna Wozniacki's rank?",
-                        "score": null,
-                        "optimal": null
-                    },
-                    "A": {
-                        "text": "What is Anna Wozniacki's rank?",
-                        "score": null,
-                        "optimal": null
-                    }
-                }
             }
         ]
     },
@@ -258,34 +230,6 @@
                     },
                     "A": {
                         "text": "Can a gene mutate?",
-                        "score": null,
-                        "optimal": null
-                    }
-                }
-            },
-            {
-                "turn_num": 4,
-                "turn_id": "3quo65dnquoyop61ycae4yp7zexuoo-5",
-                "requires_rewrite": null,
-                "annotator_rewrite": null,
-                "rewrites": {
-                    "D": {
-                        "text": "What's the name for different variants of genes?",
-                        "score": null,
-                        "optimal": null
-                    },
-                    "C": {
-                        "text": "what are different variants of genes called?",
-                        "score": null,
-                        "optimal": null
-                    },
-                    "B": {
-                        "text": "what are different variants of genes called?",
-                        "score": null,
-                        "optimal": null
-                    },
-                    "A": {
-                        "text": "What are the different variants of genes called?",
                         "score": null,
                         "optimal": null
                     }
