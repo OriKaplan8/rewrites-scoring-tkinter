@@ -2126,7 +2126,16 @@ def main():
     root.mainloop()
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except tk.TclError as e:
+        if "application has been destroyed" in str(e):
+            # Handle the specific error condition
+            print("Application has been destroyed. Ignoring the error.")
+        else:
+            # Re-raise the exception for other TclError cases
+            raise
+        
     """
     try:
         main()
