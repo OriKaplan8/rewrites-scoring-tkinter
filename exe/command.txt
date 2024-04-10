@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --icon=oneai.ico --name="OneAI RewriteScoreOptimal" exported.py
