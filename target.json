@@ -233,17 +233,17 @@
             "OLD": {
                 "text": "What kind of wood should I use to make a turkey?",
                 "answer": "nonsense",
-                "score": null,
-                "optimal": null
+                "score": 2,
+                "optimal": 1
             },
             "NEW": {
                 "text": "What kind of wood should I use to cook a turkey?",
                 "answer": "nonsense",
-                "score": null,
-                "optimal": null
+                "score": 1,
+                "optimal": 0
             },
             "annotator rewrite": null,
-            "requires rewrite": null
+            "requires rewrite": 1
         },
         "annotator_name": "f"
     },
@@ -284,17 +284,17 @@
             "OLD": {
                 "text": "Was the Supreme Court's Marbury v. Madison opinion unanimous?",
                 "answer": "In a unanimous decision, written by Justice Marshall, the Court stated that Marbury, indeed, had a right to his commission.",
-                "score": null,
-                "optimal": null
+                "score": 2,
+                "optimal": 1
             },
             "NEW": {
                 "text": "Was the Supreme Court decision in Marbury v. Madison unanimous?",
                 "answer": "In a unanimous decision, written by Justice Marshall, the Court stated that Marbury, indeed, had a right to his commission.",
-                "score": null,
-                "optimal": null
+                "score": 4,
+                "optimal": 1
             },
             "annotator rewrite": null,
-            "requires rewrite": null
+            "requires rewrite": 1
         },
         "annotator_name": "f"
     },
